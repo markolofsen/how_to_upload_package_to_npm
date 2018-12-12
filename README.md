@@ -4,30 +4,27 @@
 
 ---
 
-Sample variable for repo: [[any_repo_var]]
+## How to upload your python package to PyPi?
+## Modern system for automated publication of your code in popular repositories: NPM, PyPi, GitHub
 
-Version = 0.0.1 <br />
+### Try our free code publishing tool!
+
+Does not require special software - it works in the browser.
+
+* Multi-language support
+* Marketing tool
+* Control Center for your repositories
+* Simple interface for publishing code
+* Unlimited number of accounts for repositories
+* Built-in code editor
+* Dependency management
+
+### Try it now — <a href="https://gitupload.com">GtUpload.com</a>
+
+Version = 0.0.2 <br />
 Library name = how_to_upload_package_to_npm <br />
 Title = How to upload package to NPM <br />
 Keywords = Git,  upload,  package,  repo,  node,  javascript,  npm,  js <br />
-
-### Hot to install
-
-```sh
-yarn add how_to_upload_package_to_npm
-```
-                            
-
-### How to use
-
-```javascript
-const {how_to_upload_package_to_npm} = require('how_to_upload_package_to_npm');
-console.dir(how_to_upload_package_to_npm)
-
-s = new how_to_upload_package_to_npm('Example key').start('Hello');
-console.log(s)
-```
-                        
 
     
 

@@ -4,24 +4,27 @@
 
 ---
 
-Exemple de variable pour repo: [[any_repo_var]]
+## Comment télécharger votre paquet python sur PyPi?
+## Système moderne pour la publication automatisée de votre code dans les dépôts populaires: NPM, PyPi, GitHub
 
-Version = 0.0.1 <br />
+### Essayez notre outil de publication de code gratuit!
+
+Ne nécessite pas de logiciel spécial - cela fonctionne dans le navigateur.
+
+* Support multi-langue
+* Outil de marketing
+* Centre de contrôle pour vos référentiels
+* Interface simple pour la publication de code
+* Nombre illimité de comptes pour les dépôts
+* Editeur de code intégré
+* Gestion des dépendances
+
+### Essayez-le maintenant - <a href="https://gitupload.com">GtUpload.com</a>
+
+Version = 0.0.2 <br />
 Nom de la bibliothèque = how_to_upload_package_to_npm <br />
 Titre = How to upload package to NPM <br />
 Mots-clés = Git,  upload,  package,  repo,  node,  javascript,  npm,  js <br />
-
-### Chaud à installer
-
-```sh
-yarn add how_to_upload_package_to_npm
-```
-
-
-### Comment utiliser
-
-(dix)]
-
 
 
 ---

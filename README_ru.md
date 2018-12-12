@@ -4,30 +4,27 @@
 
 ---
 
-Пример переменной для репо: [[any_repo_var]]
+## Как загрузить свой пакет Python в PyPi?
+## Современная система для автоматической публикации вашего кода в популярных репозиториях: NPM, PyPi, GitHub
 
-Версия = 0.0.1 <br />
+### Попробуйте наш бесплатный инструмент публикации кода!
+
+Не требует специального программного обеспечения - он работает в браузере.
+
+* Многоязычная поддержка
+* Инструмент маркетинга
+* Центр управления вашими хранилищами
+* Простой интерфейс для публикации кода
+* Неограниченное количество аккаунтов для репозиториев
+* Встроенный редактор кода
+* Управление зависимостями
+
+### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
+
+Версия = 0.0.2 <br />
 Название библиотеки = how_to_upload_package_to_npm <br />
 Название = How to upload package to NPM <br />
 Ключевые слова = Git,  upload,  package,  repo,  node,  javascript,  npm,  js <br />
-
-### Горячая установка
-
-```sh
-yarn add how_to_upload_package_to_npm
-```
-
-
-### Как пользоваться
-
-```javascript
-const {how_to_upload_package_to_npm} = require('how_to_upload_package_to_npm');
-console.dir(how_to_upload_package_to_npm)
-
-s = new how_to_upload_package_to_npm('Example key').start('Hello');
-console.log(s)
-```
-
 
 
 ---
